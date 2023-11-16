@@ -1,0 +1,22 @@
+.box{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 35%;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10%;
+  margin-top: 5%; 
+}
+
+.footer{
+  padding: 10%;
+}
+
+.days-left{
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15%;
+}
